@@ -1,0 +1,1 @@
+"./iircas51.obj" "./main.obj" "D:/ZPS_Projekt_T0-3/lib/55xdsph.lib" "../C5535.cmd" "D:/ZPS_Projekt_T0-3/lib/CSLc55x5h.lib" "D:/ZPS_Projekt_T0-3/lib/ezdsp5535.lib" -l"libc.a" 
